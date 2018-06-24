@@ -15,7 +15,7 @@ This is what it's going to look like:
 
 ![Screenshot](https://s3.amazonaws.com/learn-verified/react-unidirectional-data-lab-screenshot.png)
 
-## Components
+## Componentsk
 
 ![Screenshot Components](https://s3.amazonaws.com/learn-verified/react-unidirectional-data-lab-screenshot-components.png)
 
